@@ -59,9 +59,18 @@
 
 ---
 
-## 🔥 My Stats
+## 📊 Estatísticas e Conquistas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzoventuri&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoventuri&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzoventuri&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enzoventuri&layout=compact&theme=dracula&hide_border=true" height="150" alt="top langs" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=enzoventuri&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats card" />
+</div>
+
+---
